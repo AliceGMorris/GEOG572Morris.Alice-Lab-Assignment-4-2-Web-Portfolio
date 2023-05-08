@@ -1,0 +1,37 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    background: #000000;
+	display: table;
+    margin: auto;
+}
+
+body {
+    background: #fff;
+    color: #545454;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 25px;
+    max-width: 1800px;
+	display: table-cell;
+    vertical-align: text-top;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #222;
+    font-weight: 600;
+    line-height: 1;
+}
+
+img {
+    background: transparent;
+    border: 10px solid rgba(0, 0, 0, 0.5);
+    border-radius: 4px;
+    display: block;
+    margin: 1.3em auto;
+    max-width: 95%;
+}
+
